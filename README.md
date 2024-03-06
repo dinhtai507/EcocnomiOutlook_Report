@@ -3,6 +3,8 @@
 ## Project Description
 The **Economic Outlook Report** project aims to provide a comprehensive analysis of the economic trends and forecasts for various countries worldwide. Leveraging tools such as SQL Server Management Studio, Azure Data Studio, Power BI, and Power BI Reports, this project facilitates the exploration and visualization of key economic indicators, aiding researchers, policymakers, and analysts in understanding global economic dynamics.
 
+![image](https://github.com/dinhtai507/EcocnomicOutlook_Report/assets/101158366/8f5edcf2-2644-457d-af61-e91aecf4a3bf)
+
 ## Table of Content
 - [Project Overview](#project-overview)
 - [Technologies Used](#technologies-used)
